@@ -1,4 +1,4 @@
-# FIDE Chess Invitation Analysis (2015–2026)
+# FIDE Chess Invitation Data and Analysis (2015–2026)
 
 ## Dataset Description
 * 138 monthly FIDE classical rating lists spanning **January 2015 to July 2026**.
