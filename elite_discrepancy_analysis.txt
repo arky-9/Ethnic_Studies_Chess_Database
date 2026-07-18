@@ -1,0 +1,373 @@
+==========================================================================================
+                 ELITE SUPER-TOURNAMENT INVITATION DISCREPANCY REPORT
+  Comparing the 'Overlooked Elite' (Top 20% Uninvited) vs. 'Favored Invitees' (Bottom 20% Invited)
+==========================================================================================
+
+SUMMARY STATISTICS:
+------------------------------------------------------------------------------------------
+Total Active Grandmasters parsed             : 1334
+Total Uninvited Grandmasters                 : 1256 players
+  Size of Top 20% Overlooked Elite Sample   : 251 players
+Total Invited Grandmasters                   : 78 players
+  Size of Bottom 20% Favored Sample          : 16 players
+Average 10-Yr Rating of Top 20% Uninvited    : 2598.98 Elo
+Average 10-Yr Rating of Bottom 20% Invited   : 2511.06 Elo
+THE MERITOCRACY GAP (Overlooked - Favored)   : +87.92 Elo points!
+------------------------------------------------------------------------------------------
+
+ANALYSIS NARRATIVE:
+------------------------------------------------------------------------------------------
+There is a statistical discrepancy of +87.92 Elo rating points between the
+strongest Grandmasters who have never been invited, and the lowest-performing Grandmasters
+who have been invited. This massive gap demonstrates that merit (as measured by historical
+classical FIDE performance) is not the sole factor in super-tournament selection.
+
+Our updated statistical model normalizes the invitation probabilities by calculating:
+  1. Country Cap Blockade (C_compatriot): Penalizes GMs blocked by 3+ stronger countrymen.
+  2. Geopolitical / Visa Friction (C_visa): Accounts for travel and immigration friction.
+  3. Host-Nation Wildcard Premium (C_wildcard): Boosts GMs from tournament host nations.
+
+Please inspect individual player profiles to see how these factors adjust raw rating potential.
+------------------------------------------------------------------------------------------
+
+SECTION 1a: COUNTRY FREQUENCY IN THE OVERLOOKED ELITE (Top 20% Uninvited GMs)
+Showing how many times each country code appears in Section 1 (The Overlooked Elite roster).
+------------------------------------------------------------------------------------------
+Country Code    | Number of Overlooked GMs 
+------------------------------------------------------------------------------------------
+UKR             | 18                       
+RUS             | 17                       
+HUN             | 15                       
+CHN             | 13                       
+USA             | 13                       
+IND             | 13                       
+GER             | 13                       
+FRA             | 11                       
+POL             | 10                       
+ESP             | 10                       
+ARM             | 9                        
+FID             | 8                        
+CRO             | 7                        
+SRB             | 6                        
+NED             | 6                        
+ISR             | 5                        
+ARG             | 5                        
+ENG             | 4                        
+GRE             | 4                        
+GEO             | 4                        
+BRA             | 4                        
+SLO             | 3                        
+IRI             | 3                        
+PER             | 3                        
+DEN             | 3                        
+CZE             | 3                        
+UZB             | 2                        
+BUL             | 2                        
+AUT             | 2                        
+ROU             | 2                        
+AZE             | 2                        
+KAZ             | 2                        
+PAR             | 2                        
+TUR             | 2                        
+SUI             | 2                        
+BIH             | 2                        
+NOR             | 2                        
+CUB             | 2                        
+MNE             | 2                        
+VIE             | 1                        
+EGY             | 1                        
+ITA             | 1                        
+MDA             | 1                        
+MKD             | 1                        
+SWE             | 1                        
+NON             | 1                        
+LAT             | 1                        
+FIN             | 1                        
+SVK             | 1                        
+BEL             | 1                        
+CHI             | 1                        
+MEX             | 1                        
+MAR             | 1                        
+PHI             | 1                        
+------------------------------------------------------------------------------------------
+
+SECTION 1b: THE OVERLOOKED ELITE ROSTER (Top 20% Uninvited Active GMs - Ranked by 10-Yr Performance)
+Showing the highest-performing uninvited Grandmasters who have never played in these events.
+------------------------------------------------------------------------------------------
+Rank  | Player Name                      | FED  | Current Rtg | 10Yr Avg Rtg | Total Gms
+------------------------------------------------------------------------------------------
+1     | Yu, Yangyi                       | CHN  | 2706        | 2727         | 709      
+2     | Le, Quang Liem                   | VIE  | 2731        | 2719         | 374      
+3     | Wang, Hao                        | CHN  | 2684        | 2718         | 527      
+4     | Vitiugov, Nikita                 | ENG  | 2666        | 2713         | 615      
+5     | Bu, Xiangzhi                     | CHN  | 2661        | 2702         | 428      
+6     | Fedoseev, Vladimir               | SLO  | 2692        | 2692         | 770      
+7     | Li, Chao b                       | CHN  | 2625        | 2687         | 367      
+8     | Ivanchuk, Vasyl                  | UKR  | 2628        | 2681         | 708      
+9     | Leko, Peter                      | HUN  | 2676        | 2676         | 205      
+10    | Kasimdzhanov, Rustam             | UZB  | 2665        | 2675         | 223      
+11    | Matlakov, Maxim                  | RUS  | 2599        | 2675         | 640      
+12    | Polgar, Judit                    | HUN  | 2675        | 2675         | 0        
+13    | Wang, Yue                        | CHN  | 2623        | 2675         | 262      
+14    | Bacrot, Etienne                  | FRA  | 2619        | 2673         | 690      
+15    | Robson, Ray                      | USA  | 2659        | 2673         | 370      
+16    | Cheparinov, Ivan                 | BUL  | 2631        | 2671         | 764      
+17    | Inarkiev, Ernesto                | RUS  | 2641        | 2671         | 472      
+18    | Sargissian, Gabriel              | ARM  | 2610        | 2670         | 440      
+19    | Malakhov, Vladimir               | FID  | 2597        | 2665         | 364      
+20    | Morozevich, Alexander            | RUS  | 2654        | 2665         | 75       
+21    | Kovalenko, Igor                  | UKR  | 2672        | 2662         | 590      
+22    | Sjugirov, Sanan                  | HUN  | 2544        | 2662         | 689      
+23    | Ponomariov, Ruslan               | UKR  | 2632        | 2661         | 400      
+24    | Saric, Ivan                      | CRO  | 2623        | 2661         | 1043     
+25    | Najer, Evgeniy                   | FID  | 2580        | 2655         | 425      
+26    | Kamsky, Gata                     | FRA  | 2595        | 2653         | 668      
+27    | McShane, Luke J                  | ENG  | 2597        | 2651         | 343      
+28    | Areshchenko, Alexander           | UKR  | 2598        | 2650         | 325      
+29    | Ragger, Markus                   | AUT  | 2579        | 2649         | 754      
+30    | Sevian, Samuel                   | USA  | 2701        | 2649         | 742      
+31    | Berkes, Ferenc                   | HUN  | 2612        | 2645         | 667      
+32    | Maghsoodloo, Parham              | IRI  | 2705        | 2644         | 1053     
+33    | Alekseenko, Kirill               | AUT  | 2656        | 2643         | 693      
+34    | Fressinet, Laurent               | FRA  | 2608        | 2642         | 458      
+35    | Granda Zuniga, Julio E           | PER  | 2606        | 2638         | 384      
+36    | Kuzubov, Yuriy                   | UKR  | 2603        | 2636         | 792      
+37    | Oparin, Grigoriy                 | USA  | 2643        | 2636         | 595      
+38    | Riazantsev, Alexander            | RUS  | 2590        | 2636         | 242      
+39    | Cori, Jorge                      | PER  | 2586        | 2634         | 574      
+40    | Movsesian, Sergei                | ARM  | 2594        | 2633         | 550      
+41    | Motylev, Alexander               | ROU  | 2543        | 2632         | 587      
+42    | Swiercz, Dariusz                 | USA  | 2579        | 2632         | 537      
+43    | Dreev, Aleksey                   | RUS  | 2577        | 2631         | 388      
+44    | Ma, Qun                          | CHN  | 2611        | 2631         | 347      
+45    | Short, Nigel D                   | ENG  | 2594        | 2631         | 333      
+46    | Papaioannou, Ioannis             | GRE  | 2611        | 2630         | 158      
+47    | Rakhmanov, Aleksandr             | FID  | 2590        | 2630         | 678      
+48    | Demchenko, Anton                 | SLO  | 2588        | 2629         | 835      
+49    | Akopian, Vladimir                | USA  | 2551        | 2628         | 237      
+50    | Bruzon Batista, Lazaro           | USA  | 2555        | 2628         | 648      
+51    | Predke, Alexandr                 | SRB  | 2603        | 2628         | 820      
+52    | Sasikiran, Krishnan              | IND  | 2546        | 2628         | 610      
+53    | Gustafsson, Jan                  | GER  | 2580        | 2627         | 166      
+54    | Safarli, Eltaj                   | AZE  | 2624        | 2627         | 931      
+55    | Nielsen, Peter Heine             | DEN  | 2614        | 2626         | 40       
+56    | Sutovsky, Emil                   | ISR  | 2592        | 2624         | 285      
+57    | Nyzhnyk, Illya                   | UKR  | 2527        | 2623         | 624      
+58    | Hovhannisyan, Robert             | ARM  | 2628        | 2622         | 596      
+59    | Jobava, Baadur                   | GEO  | 2572        | 2621         | 704      
+60    | Popov, Ivan                      | RUS  | 2595        | 2620         | 408      
+61    | Sethuraman, S.P.                 | IND  | 2541        | 2620         | 1009     
+62    | Durarbayli, Vasif                | AZE  | 2611        | 2619         | 534      
+63    | Moiseenko, Alexander             | UKR  | 2569        | 2619         | 497      
+64    | Onyshchuk, Volodymyr             | UKR  | 2617        | 2619         | 441      
+65    | Ganguly, Surya Shekhar           | IND  | 2578        | 2618         | 679      
+66    | Lu, Shanglei                     | CHN  | 2635        | 2618         | 676      
+67    | Mareco, Sandro                   | ARG  | 2551        | 2618         | 781      
+68    | Aravindh, Chithambaram VR.       | IND  | 2677        | 2617         | 781      
+69    | Bartel, Mateusz                  | POL  | 2549        | 2617         | 869      
+70    | Iturrizaga Bonelli, Eduardo      | ESP  | 2587        | 2616         | 907      
+71    | Gledura, Benjamin                | HUN  | 2628        | 2614         | 747      
+72    | Piorun, Kacper                   | POL  | 2519        | 2613         | 740      
+73    | Lysyj, Igor                      | FID  | 2518        | 2611         | 337      
+74    | Zvjaginsev, Vadim                | RUS  | 2525        | 2611         | 560      
+75    | Banusz, Tamas                    | HUN  | 2598        | 2610         | 771      
+76    | Bauer, Christian                 | FRA  | 2562        | 2610         | 1122     
+77    | Lagarde, Maxime                  | FRA  | 2622        | 2610         | 1114     
+78    | Bok, Benjamin                    | NED  | 2560        | 2609         | 677      
+79    | Salgado Lopez, Ivan              | ESP  | 2591        | 2609         | 390      
+80    | Smirin, Ilia                     | ISR  | 2568        | 2609         | 605      
+81    | Efimenko, Zahar                  | UKR  | 2548        | 2608         | 359      
+82    | Kovalev, Vladislav               | FID  | 2565        | 2608         | 674      
+83    | Ter-Sahakyan, Samvel             | ARM  | 2613        | 2608         | 782      
+84    | Fedorchuk, Sergey A.             | UKR  | 2593        | 2607         | 1240     
+85    | Sarana, Alexey                   | SRB  | 2664        | 2607         | 958      
+86    | Tabatabaei, M. Amin              | IRI  | 2722        | 2607         | 984      
+87    | Akobian, Varuzhan                | USA  | 2553        | 2606         | 354      
+88    | Jumabayev, Rinat                 | KAZ  | 2565        | 2606         | 747      
+89    | Bachmann, Axel                   | PAR  | 2582        | 2605         | 635      
+90    | Adly, Ahmed                      | EGY  | 2581        | 2604         | 548      
+91    | Illescas Cordoba, Miguel         | ESP  | 2587        | 2604         | 34       
+92    | Indjic, Aleksandar               | SRB  | 2602        | 2604         | 1017     
+93    | Leitao, Rafael                   | BRA  | 2584        | 2604         | 201      
+94    | Markus, Robert                   | SRB  | 2521        | 2604         | 739      
+95    | Solak, Dragan                    | TUR  | 2588        | 2604         | 238      
+96    | Ponkratov, Pavel                 | RUS  | 2538        | 2603         | 854      
+97    | Gupta, Abhijeet                  | IND  | 2529        | 2602         | 895      
+98    | Vocaturo, Daniele                | ITA  | 2561        | 2602         | 687      
+99    | Milov, Vadim                     | SUI  | 2579        | 2601         | 194      
+100   | Khismatullin, Denis              | RUS  | 2522        | 2600         | 384      
+101   | Shimanov, Aleksandr              | RUS  | 2581        | 2600         | 480      
+102   | Baramidze, David                 | GER  | 2562        | 2599         | 132      
+103   | Chigaev, Maksim                  | ESP  | 2648        | 2599         | 975      
+104   | Socko, Bartosz                   | POL  | 2554        | 2599         | 641      
+105   | Svane, Rasmus                    | GER  | 2624        | 2599         | 913      
+106   | Zhao, Jun                        | CHN  | 2538        | 2598         | 375      
+107   | Zhou, Jianchao                   | USA  | 2605        | 2598         | 1273     
+108   | Hansen, Curt                     | DEN  | 2590        | 2597         | 38       
+109   | Karthikeyan, Murali              | IND  | 2668        | 2597         | 816      
+110   | Predojevic, Borki                | BIH  | 2555        | 2597         | 548      
+111   | Sokolov, Ivan                    | NED  | 2567        | 2597         | 242      
+112   | Alekseev, Evgeny                 | ISR  | 2500        | 2596         | 619      
+113   | Edouard, Romain                  | FRA  | 2554        | 2596         | 807      
+114   | Narayanan S L                    | IND  | 2581        | 2596         | 940      
+115   | Bologan, Victor                  | MDA  | 2590        | 2595         | 172      
+116   | Romanov, Evgeny                  | MKD  | 2548        | 2595         | 900      
+117   | Bortnyk, Olexandr                | UKR  | 2604        | 2594         | 387      
+118   | Oleksiyenko, Mykhaylo            | UKR  | 2558        | 2594         | 351      
+119   | Brkic, Ante                      | CRO  | 2610        | 2593         | 828      
+120   | Kokarev, Dmitry                  | RUS  | 2520        | 2593         | 656      
+121   | Hellers, Ferdinand               | SWE  | 2581        | 2592         | 20       
+122   | Idani, Pouya                     | IRI  | 2615        | 2592         | 874      
+123   | Santos Latasa, Jaime             | ESP  | 2620        | 2592         | 1021     
+124   | Erdos, Viktor                    | HUN  | 2552        | 2591         | 600      
+125   | Kobalia, Mikhail                 | FID  | 2529        | 2591         | 387      
+126   | Moussard, Jules                  | FRA  | 2606        | 2591         | 947      
+127   | Pichot, Alan                     | ESP  | 2562        | 2591         | 1007     
+128   | Tomczak, Jacek                   | POL  | 2545        | 2591         | 538      
+129   | Wen, Yang                        | CHN  | 2575        | 2591         | 361      
+130   | Martirosyan, Haik M.             | ARM  | 2653        | 2589         | 904      
+131   | Paravyan, David                  | FID  | 2584        | 2589         | 777      
+132   | Braun, Arik                      | GER  | 2587        | 2588         | 216      
+133   | Grigoryan, Karen H.              | ARM  | 2464        | 2588         | 1325     
+134   | Moranda, Wojciech                | POL  | 2507        | 2588         | 233      
+135   | Postny, Evgeny                   | ISR  | 2528        | 2588         | 1179     
+136   | Andriasian, Zaven                | ARM  | 2538        | 2587         | 448      
+137   | Dautov, Rustem                   | GER  | 2525        | 2587         | 115      
+138   | Doettling, Fabian                | GER  | 2593        | 2587         | 23       
+139   | Gareyev, Timur                   | NON  | 2552        | 2587         | 684      
+140   | Huschenbeth, Niclas              | GER  | 2586        | 2587         | 538      
+141   | Ivanisevic, Ivan                 | SRB  | 2517        | 2587         | 931      
+142   | Antipov, Mikhail Al.             | USA  | 2626        | 2586         | 847      
+143   | Azarov, Sergei                   | FID  | 2538        | 2586         | 589      
+144   | Banikas, Hristos                 | GRE  | 2545        | 2585         | 355      
+145   | Mastrovasilis, Dimitrios         | GRE  | 2525        | 2585         | 506      
+146   | Prohaszka, Peter                 | HUN  | 2556        | 2585         | 572      
+147   | Baklan, Vladimir                 | UKR  | 2525        | 2584         | 720      
+148   | Gozzoli, Yannick                 | FRA  | 2543        | 2584         | 509      
+149   | Perez Candelario, Manuel         | ESP  | 2541        | 2584         | 396      
+150   | Mchedlishvili, Mikheil           | GEO  | 2550        | 2582         | 640      
+151   | Petrosian, Tigran L.             | ARM  | 2522        | 2582         | 363      
+152   | Sakaev, Konstantin               | RUS  | 2535        | 2582         | 121      
+153   | Delgado Ramirez, Neuris          | PAR  | 2519        | 2581         | 1215     
+154   | Neiksans, Arturs                 | LAT  | 2554        | 2581         | 675      
+155   | Tiviakov, Sergei                 | NED  | 2530        | 2581         | 666      
+156   | Wagner, Dennis                   | GER  | 2589        | 2581         | 636      
+157   | Parligras, Mircea-Emilian        | ROU  | 2507        | 2580         | 790      
+158   | Reinderman, Dimitri              | NED  | 2574        | 2580         | 212      
+159   | Smeets, Jan                      | NED  | 2564        | 2580         | 154      
+160   | Krasenkow, Michal                | POL  | 2505        | 2579         | 598      
+161   | Nyback, Tomi                     | FIN  | 2601        | 2579         | 199      
+162   | Ovsejevitsch, Sergei             | UKR  | 2564        | 2579         | 378      
+163   | Vaibhav, Suri                    | IND  | 2569        | 2579         | 359      
+164   | Van den Doel, Erik               | NED  | 2549        | 2579         | 467      
+165   | Acs, Peter                       | HUN  | 2561        | 2578         | 215      
+166   | Buhmann, Rainer                  | GER  | 2547        | 2578         | 507      
+167   | Georgiev, Kiril                  | BUL  | 2525        | 2578         | 592      
+168   | Hera, Imre Jr.                   | HUN  | 2505        | 2578         | 331      
+169   | Lenderman, Aleksandr             | USA  | 2462        | 2578         | 721      
+170   | Liang, Awonder                   | USA  | 2696        | 2578         | 1005     
+171   | Bai, Jinshi                      | CHN  | 2600        | 2577         | 672      
+172   | Polgar, Susan                    | HUN  | 2577        | 2577         | 0        
+173   | Bosiocic, Marin                  | CRO  | 2563        | 2576         | 988      
+174   | Flores, Diego                    | ARG  | 2582        | 2576         | 746      
+175   | Potkin, Vladimir                 | RUS  | 2548        | 2576         | 153      
+176   | Cordova, Emilio                  | PER  | 2498        | 2575         | 1018     
+177   | Kozul, Zdenko                    | CRO  | 2497        | 2575         | 889      
+178   | Petrosyan, Manuel                | ARM  | 2574        | 2575         | 967      
+179   | Agdestein, Simen                 | NOR  | 2525        | 2574         | 278      
+180   | dr. Balog, Imre                  | HUN  | 2575        | 2574         | 307      
+181   | Fier, Alexandr                   | BRA  | 2557        | 2574         | 1686     
+182   | Kraemer, Martin                  | GER  | 2560        | 2574         | 231      
+183   | Xie, Jun                         | CHN  | 2574        | 2574         | 0        
+184   | Bacallao Alonso, Yusnel          | CUB  | 2572        | 2573         | 188      
+185   | Gopal G.N.                       | IND  | 2529        | 2573         | 336      
+186   | Kempinski, Robert                | POL  | 2516        | 2573         | 291      
+187   | Can, Emre                        | TUR  | 2526        | 2572         | 709      
+188   | Christiansen, Larry              | USA  | 2563        | 2572         | 49       
+189   | Andersen, Mads                   | DEN  | 2559        | 2571         | 627      
+190   | Kollars, Dmitrij                 | GER  | 2634        | 2571         | 1048     
+191   | Papp, Gabor                      | HUN  | 2507        | 2570         | 559      
+192   | Peralta, Fernando                | ARG  | 2548        | 2570         | 755      
+193   | Stevic, Hrvoje                   | CRO  | 2513        | 2570         | 641      
+194   | Hracek, Zbynek                   | CZE  | 2525        | 2569         | 592      
+195   | Pantsulaia, Levan                | GEO  | 2493        | 2569         | 808      
+196   | Yuffa, Daniil                    | ESP  | 2574        | 2569         | 873      
+197   | Cornette, Matthieu               | FRA  | 2544        | 2568         | 669      
+198   | Michalik, Peter                  | SVK  | 2543        | 2568         | 689      
+199   | Nikolic, Predrag                 | BIH  | 2551        | 2568         | 310      
+200   | Timofeev, Artyom                 | RUS  | 2511        | 2568         | 570      
+201   | Tregubov, Pavel V.               | FRA  | 2538        | 2568         | 310      
+202   | Turov, Maxim                     | RUS  | 2484        | 2568         | 374      
+203   | Baryshpolets, Andrey             | UKR  | 2557        | 2567         | 325      
+204   | Gurevich, Mikhail                | BEL  | 2548        | 2567         | 214      
+205   | Henriquez Villagra, Cristobal    | CHI  | 2603        | 2567         | 741      
+206   | Nunn, John D M                   | ENG  | 2512        | 2567         | 164      
+207   | Perunovic, Milos                 | SRB  | 2500        | 2567         | 681      
+208   | Vovk, Yuri                       | UKR  | 2530        | 2567         | 323      
+209   | Dragun, Kamil                    | POL  | 2512        | 2566         | 632      
+210   | Jussupow, Artur                  | GER  | 2537        | 2566         | 103      
+211   | Martinez Alcantara, Jose Eduardo | MEX  | 2650        | 2566         | 702      
+212   | Maze, Sebastien                  | FRA  | 2494        | 2566         | 674      
+213   | Gagunashvili, Merab              | GEO  | 2520        | 2565         | 431      
+214   | Tarlev, Konstantin               | UKR  | 2537        | 2565         | 358      
+215   | Felgaer, Ruben                   | ARG  | 2556        | 2564         | 152      
+216   | Bernadskiy, Vitaliy              | UKR  | 2507        | 2563         | 1838     
+217   | Bogner, Sebastian                | SUI  | 2545        | 2563         | 704      
+218   | Zeng, Chongsheng                 | CHN  | 2565        | 2563         | 499      
+219   | Zhang, Pengxiang                 | CHN  | 2557        | 2563         | 57       
+220   | Aryan Chopra                     | IND  | 2637        | 2558         | 548      
+221   | Goganov, Aleksey                 | RUS  | 2491        | 2557         | 1081     
+222   | Nihal Sarin                      | IND  | 2717        | 2557         | 898      
+223   | Quesada Perez, Yasser            | CUB  | 2547        | 2557         | 556      
+224   | Graf, Alexander                  | GER  | 2492        | 2556         | 190      
+225   | Ibarra Jerez, Jose Carlos        | ESP  | 2533        | 2556         | 269      
+226   | Mista, Aleksander                | POL  | 2494        | 2556         | 421      
+227   | Nguyen, Thai Dai Van             | CZE  | 2633        | 2556         | 913      
+228   | Hamdouchi, Hicham                | MAR  | 2491        | 2555         | 184      
+229   | Sadorra, Julio Catalino          | PHI  | 2547        | 2555         | 322      
+230   | Forcen Esteban, Daniel           | ESP  | 2541        | 2554         | 469      
+231   | Christiansen, Johan-Sebastian    | NOR  | 2647        | 2553         | 1105     
+232   | Dziuba, Marcin                   | POL  | 2503        | 2553         | 263      
+233   | Erenburg, Sergey                 | USA  | 2481        | 2553         | 377      
+234   | Ghosh, Diptayan                  | IND  | 2554        | 2553         | 610      
+235   | Grigoriants, Sergey              | HUN  | 2546        | 2553         | 351      
+236   | Jankovic, Alojzije               | CRO  | 2560        | 2553         | 206      
+237   | Perez Ponsa, Federico            | ARG  | 2541        | 2553         | 585      
+238   | Pigusov, Evgeny                  | RUS  | 2508        | 2552         | 19       
+239   | Puranik, Abhimanyu               | IND  | 2629        | 2552         | 946      
+240   | Skoberne, Jure                   | SLO  | 2555        | 2552         | 300      
+241   | Kadric, Denis                    | MNE  | 2517        | 2551         | 1088     
+242   | Martinovic, Sasa                 | CRO  | 2553        | 2551         | 716      
+243   | Mekhitarian, Krikor Sevag        | BRA  | 2544        | 2551         | 593      
+244   | Petrov, Nikita                   | MNE  | 2555        | 2551         | 905      
+245   | Antal, Gergely                   | HUN  | 2541        | 2550         | 595      
+246   | Kazhgaleyev, Murtas              | KAZ  | 2541        | 2550         | 440      
+247   | Stocek, Jiri                     | CZE  | 2484        | 2550         | 831      
+248   | Supi, Luis Paulo                 | BRA  | 2581        | 2550         | 381      
+249   | Huzman, Alexander                | ISR  | 2478        | 2549         | 246      
+250   | Pavlidis, Antonios               | GRE  | 2573        | 2549         | 366      
+251   | Vakhidov, Jakhongir              | UZB  | 2500        | 2549         | 534      
+------------------------------------------------------------------------------------------
+
+SECTION 2: THE FAVORED INVITEES (Bottom 20% Invited GMs - Ranked by 10-Yr Performance Ascending)
+Showing the lowest-performing Grandmasters who have successfully secured elite invitations.
+------------------------------------------------------------------------------------------
+Rank  | Player Name                      | FED  | Current Rtg | 10Yr Avg Rtg | Actual Invites
+------------------------------------------------------------------------------------------
+1     | Maurizzi, MarcAndria             | FRA  | 2628        | 2272         | 1             
+2     | Mendonca, Leon Luke              | IND  | 2616        | 2374         | 1             
+3     | Dardha, Daniel                   | BEL  | 2606        | 2410         | 1             
+4     | Gukesh D                         | IND  | 2717        | 2495         | 8             
+5     | Niemann, Hans Moke               | USA  | 2730        | 2502         | 1             
+6     | Dronavalli, Harika               | IND  | 2453        | 2504         | 1             
+7     | Lei, Tingjie                     | CHN  | 2566        | 2513         | 1             
+8     | Sindarov, Javokhir               | UZB  | 2777        | 2528         | 1             
+9     | Erigaisi Arjun                   | IND  | 2757        | 2548         | 4             
+10    | Yakubboev, Nodirbek              | UZB  | 2685        | 2556         | 1             
+11    | Koneru, Humpy                    | IND  | 2524        | 2563         | 2             
+12    | Keymer, Vincent                  | GER  | 2767        | 2564         | 5             
+13    | Ju, Wenjun                       | CHN  | 2560        | 2565         | 2             
+14    | Praggnanandhaa R                 | IND  | 2750        | 2570         | 8             
+15    | Abdusattorov, Nodirbek           | UZB  | 2766        | 2606         | 8             
+16    | Fridman, Daniel                  | GER  | 2564        | 2607         | 1             
+------------------------------------------------------------------------------------------

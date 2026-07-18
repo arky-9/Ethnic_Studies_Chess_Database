@@ -1,0 +1,83 @@
+============================================================================================
+                      ELITE TOURNAMENT INVITATION STATISTICAL OUTLIERS
+  Measuring the 30 Most Statistically Overlooked vs. the 30 Most Statistically Favored Players
+                    Based strictly on Geopolitically Adjusted Probabilities
+============================================================================================
+
+SECTION 1: THE MOST STATISTICALLY OVERLOOKED ACTIVE GRANDMASTERS (Top 30 Uninvited GMs)
+These players have zero actual invitations despite possessing the highest adjusted probability
+scores. Mathematically, even after accounting for visa friction, country caps, and wildcard biases,
+these GMs represent the most overlooked tournament strengths in modern classical chess.
+--------------------------------------------------------------------------------------------
+Rank  | Player Name                    | FED  | 10Yr Avg | Nat. Rank | Adj. Prob | Raw Prob  | Modifiers      
+--------------------------------------------------------------------------------------------
+1     | Le, Quang Liem                 | VIE  | 2719     | Rank 1    | 42.10   % | 42.10   % | C:1.00 V:1.00 W:1.00
+2     | Vitiugov, Nikita               | ENG  | 2713     | Rank 1    | 36.70   % | 36.70   % | C:1.00 V:1.00 W:1.00
+3     | Fedoseev, Vladimir             | SLO  | 2692     | Rank 1    | 21.32   % | 21.32   % | C:1.00 V:1.00 W:1.00
+4     | Yu, Yangyi                     | CHN  | 2727     | Rank 3    | 19.72   % | 49.30   % | C:1.00 V:0.40 W:1.00
+5     | Wang, Hao                      | CHN  | 2718     | Rank 4    | 16.48   % | 41.20   % | C:1.00 V:0.40 W:1.00
+6     | Ivanchuk, Vasyl                | UKR  | 2681     | Rank 2    | 16.26   % | 16.26   % | C:1.00 V:1.00 W:1.00
+7     | Leko, Peter                    | HUN  | 2676     | Rank 2    | 13.96   % | 13.96   % | C:1.00 V:1.00 W:1.00
+8     | Kasimdzhanov, Rustam           | UZB  | 2675     | Rank 1    | 13.50   % | 13.50   % | C:1.00 V:1.00 W:1.00
+9     | Polgar, Judit                  | HUN  | 2675     | Rank 3    | 13.50   % | 13.50   % | C:1.00 V:1.00 W:1.00
+10    | Bacrot, Etienne                | FRA  | 2673     | Rank 2    | 12.58   % | 12.58   % | C:1.00 V:1.00 W:1.00
+11    | Cheparinov, Ivan               | BUL  | 2671     | Rank 2    | 11.66   % | 11.66   % | C:1.00 V:1.00 W:1.00
+12    | Sargissian, Gabriel            | ARM  | 2670     | Rank 1    | 11.20   % | 11.20   % | C:1.00 V:1.00 W:1.00
+13    | Malakhov, Vladimir             | FID  | 2665     | Rank 4    | 8.90    % | 8.90    % | C:1.00 V:1.00 W:1.00
+14    | Sjugirov, Sanan                | HUN  | 2662     | Rank 4    | 7.52    % | 7.52    % | C:1.00 V:1.00 W:1.00
+15    | Saric, Ivan                    | CRO  | 2661     | Rank 1    | 7.06    % | 7.06    % | C:1.00 V:1.00 W:1.00
+16    | Bu, Xiangzhi                   | CHN  | 2702     | Rank 5    | 5.36    % | 26.80   % | C:0.50 V:0.40 W:1.00
+17    | Robson, Ray                    | USA  | 2673     | Rank 7    | 4.72    % | 12.58   % | C:0.15 V:1.00 W:2.50
+18    | Li, Chao b                     | CHN  | 2687     | Rank 6    | 3.80    % | 19.02   % | C:0.50 V:0.40 W:1.00
+19    | Kovalenko, Igor                | UKR  | 2662     | Rank 5    | 3.76    % | 7.52    % | C:0.50 V:1.00 W:1.00
+20    | Ponomariov, Ruslan             | UKR  | 2661     | Rank 6    | 3.53    % | 7.06    % | C:0.50 V:1.00 W:1.00
+21    | Kamsky, Gata                   | FRA  | 2653     | Rank 4    | 3.38    % | 3.38    % | C:1.00 V:1.00 W:1.00
+22    | Motylev, Alexander             | ROU  | 2632     | Rank 2    | 3.29    % | 1.32    % | C:1.00 V:1.00 W:2.50
+23    | Gustafsson, Jan                | GER  | 2627     | Rank 2    | 2.81    % | 1.13    % | C:1.00 V:1.00 W:2.50
+24    | Wang, Yue                      | CHN  | 2675     | Rank 7    | 2.70    % | 13.50   % | C:0.50 V:0.40 W:1.00
+25    | Najer, Evgeniy                 | FID  | 2655     | Rank 5    | 2.15    % | 4.30    % | C:0.50 V:1.00 W:1.00
+26    | Ragger, Markus                 | AUT  | 2649     | Rank 1    | 1.96    % | 1.96    % | C:1.00 V:1.00 W:1.00
+27    | Bartel, Mateusz                | POL  | 2617     | Rank 3    | 1.86    % | 0.75    % | C:1.00 V:1.00 W:2.50
+28    | Maghsoodloo, Parham            | IRI  | 2644     | Rank 1    | 1.77    % | 1.77    % | C:1.00 V:1.00 W:1.00
+29    | Alekseenko, Kirill             | AUT  | 2643     | Rank 2    | 1.73    % | 1.73    % | C:1.00 V:1.00 W:1.00
+30    | Granda Zuniga, Julio E         | PER  | 2638     | Rank 1    | 1.54    % | 1.54    % | C:1.00 V:1.00 W:1.00
+--------------------------------------------------------------------------------------------
+
+SECTION 2: THE MOST STATISTICALLY FAVORED ACTIVE GRANDMASTERS (Top 30 Invited Outliers)
+These players have received real super-tournament invitations despite possessing very low adjusted
+probability scores. They successfully beat the mathematical odds to play in elite closed circles,
+representing powerful wildcard breaks, rising prodigy surges, or local national representation.
+--------------------------------------------------------------------------------------------
+Rank  | Player Name                    | FED  | 10Yr Avg | Invites | Adj. Prob | Raw Prob  | Modifiers      
+--------------------------------------------------------------------------------------------
+1     | Dardha, Daniel                 | BEL  | 2410     | 1       | 0.01    % | 0.01    % | C:0.50 V:1.00 W:1.00
+2     | Dronavalli, Harika             | IND  | 2504     | 1       | 0.01    % | 0.01    % | C:0.15 V:0.80 W:1.00
+3     | Erigaisi Arjun                 | IND  | 2548     | 4       | 0.01    % | 0.01    % | C:0.15 V:0.80 W:1.00
+4     | Gukesh D                       | IND  | 2495     | 8       | 0.01    % | 0.01    % | C:0.15 V:0.80 W:1.00
+5     | Ju, Wenjun                     | CHN  | 2565     | 2       | 0.01    % | 0.01    % | C:0.50 V:0.40 W:1.00
+6     | Keymer, Vincent                | GER  | 2564     | 5       | 0.01    % | 0.01    % | C:0.50 V:1.00 W:1.00
+7     | Koneru, Humpy                  | IND  | 2563     | 2       | 0.01    % | 0.01    % | C:0.15 V:0.80 W:1.00
+8     | Lei, Tingjie                   | CHN  | 2513     | 1       | 0.01    % | 0.01    % | C:0.50 V:0.40 W:1.00
+9     | Maurizzi, MarcAndria           | FRA  | 2272     | 1       | 0.01    % | 0.01    % | C:0.50 V:1.00 W:1.00
+10    | Mendonca, Leon Luke            | IND  | 2374     | 1       | 0.01    % | 0.01    % | C:0.15 V:0.80 W:1.00
+11    | Niemann, Hans Moke             | USA  | 2502     | 1       | 0.01    % | 0.01    % | C:0.15 V:1.00 W:1.00
+12    | Praggnanandhaa R               | IND  | 2570     | 8       | 0.01    % | 0.01    % | C:0.15 V:0.80 W:1.00
+13    | Sindarov, Javokhir             | UZB  | 2528     | 1       | 0.01    % | 0.01    % | C:0.50 V:1.00 W:1.00
+14    | Yakubboev, Nodirbek            | UZB  | 2556     | 1       | 0.01    % | 0.01    % | C:1.00 V:1.00 W:1.00
+15    | Esipenko, Andrey               | RUS  | 2614     | 3       | 0.04    % | 0.63    % | C:0.15 V:0.40 W:1.00
+16    | Adhiban, B.                    | IND  | 2626     | 2       | 0.13    % | 1.09    % | C:0.15 V:0.80 W:1.00
+17    | Abasov, Nijat                  | AZE  | 2612     | 1       | 0.28    % | 0.56    % | C:0.50 V:1.00 W:1.00
+18    | Abdusattorov, Nodirbek         | UZB  | 2606     | 8       | 0.33    % | 0.33    % | C:1.00 V:1.00 W:1.00
+19    | Hou, Yifan                     | CHN  | 2649     | 4       | 0.39    % | 1.96    % | C:0.50 V:0.40 W:1.00
+20    | Yilmaz, Mustafa                | TUR  | 2612     | 1       | 0.56    % | 0.56    % | C:1.00 V:1.00 W:1.00
+21    | Volokitin, Andrei              | UKR  | 2645     | 1       | 0.91    % | 1.81    % | C:0.50 V:1.00 W:1.00
+22    | Fridman, Daniel                | GER  | 2607     | 1       | 0.92    % | 0.37    % | C:1.00 V:1.00 W:2.50
+23    | Meier, Georg                   | URU  | 2626     | 2       | 1.09    % | 1.09    % | C:1.00 V:1.00 W:1.00
+24    | Deac, Bogdan-Daniel            | ROU  | 2613     | 3       | 1.49    % | 0.59    % | C:1.00 V:1.00 W:2.50
+25    | Tari, Aryan                    | NOR  | 2613     | 4       | 1.49    % | 0.59    % | C:1.00 V:1.00 W:2.50
+26    | Rodshtein, Maxim               | ISR  | 2642     | 1       | 1.70    % | 1.70    % | C:1.00 V:1.00 W:1.00
+27    | Donchenko, Alexander           | GER  | 2616     | 2       | 1.77    % | 0.71    % | C:1.00 V:1.00 W:2.50
+28    | Lupulescu, Constantin          | ROU  | 2617     | 1       | 1.86    % | 0.75    % | C:1.00 V:1.00 W:2.50
+29    | Xiong, Jeffery                 | USA  | 2657     | 2       | 1.96    % | 5.22    % | C:0.15 V:1.00 W:2.50
+30    | L'Ami, Erwin                   | NED  | 2622     | 1       | 2.34    % | 0.94    % | C:1.00 V:1.00 W:2.50
+--------------------------------------------------------------------------------------------
